@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
+=======
+
+# Getting Started with Create React App
+Your local changes
+Remote changes
+>>>>>>> f3d40f41d2b772589082c7f3861269ada8562f8b
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +75,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<<<<<<< HEAD
+=======
+=======
+# Project_ey_gds
+
+>>>>>>> f3d40f41d2b772589082c7f3861269ada8562f8b
